@@ -48,7 +48,7 @@ github-ai-trending-bot/
 | Secret 名称 | 值 | 说明 |
 |:---|:---|:---|
 | `FEISHU_WEBHOOK` | 你的飞书 Webhook 地址 | 必填 |
-| `GITHUB_TOKEN` | 自动生成 | 可选，用于提高 API 限额 |
+| `GIT_TOKEN` | 自动生成 | 可选，用于提高 API 限额 |
 
 ### 4. 激活 GitHub Actions
 
@@ -139,7 +139,7 @@ pip install -r requirements.txt
 
 # 配置环境变量
 export FEISHU_WEBHOOK="https://open.feishu.cn/open-apis/bot/v2/hook/xxx"
-export GITHUB_TOKEN="ghp_xxx"  # 可选
+export GIT_TOKEN="ghp_xxx"  # 可选
 
 # 运行测试
 cd src

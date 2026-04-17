@@ -45,7 +45,7 @@ Webhook 地址：https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxx-xxxx-xxxx
 
 点击 **Add secret**
 
-### 3.3 添加 GITHUB_TOKEN（可选）
+### 3.3 添加 GIT_TOKEN（可选）
 
 GitHub Token 用于提高 API 访问限额：
 
@@ -60,7 +60,7 @@ GitHub Token 用于提高 API 访问限额：
 
 | 字段 | 值 |
 |:---|:---|
-| Name | `GITHUB_TOKEN` |
+| Name | `GIT_TOKEN` |
 | Secret | `ghp_xxxxxxxxxxxx...` |
 
 ## 步骤 4：激活 Actions
@@ -85,7 +85,7 @@ GitHub Token 用于提高 API 访问限额：
 - [ ] 飞书机器人已添加
 - [ ] Webhook 地址已保存
 - [ ] FEISHU_WEBHOOK Secret 已添加
-- [ ] GITHUB_TOKEN Secret 已添加（可选）
+- [ ] GIT_TOKEN Secret 已添加（可选）
 - [ ] Actions 已启用
 - [ ] 手动测试运行成功
 - [ ] 飞书收到第一条消息
@@ -112,7 +112,7 @@ GitHub Token 用于提高 API 访问限额：
 **错误信息**：`API rate limit exceeded`
 
 **解决方案**：
-- 添加 GITHUB_TOKEN Secret（将限额从 60/小时 提升到 5000/小时）
+- 添加 GIT_TOKEN Secret（将限额从 60/小时 提升到 5000/小时）
 - 或减少搜索关键词数量
 
 #### Q3: 消息格式错乱

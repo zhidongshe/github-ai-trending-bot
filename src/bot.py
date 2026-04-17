@@ -8,7 +8,7 @@ import re
 
 class GitHubTrendingBot:
     def __init__(self):
-        self.github_token = os.getenv("GITHUB_TOKEN", "")
+        self.github_token = os.getenv("GIT_TOKEN", "")
         self.feishu_webhook = os.getenv("FEISHU_WEBHOOK", "")
         self.headers = {
             "Accept": "application/vnd.github.v3+json",
