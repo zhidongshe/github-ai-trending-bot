@@ -15,17 +15,19 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
-    
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests
-    
+
     - name: Run bot
       env:
         GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
@@ -33,10 +35,17 @@ jobs:
       run: |
         cd src
         python bot.py
-    
+
     - name: Upload report
       uses: actions/upload-artifact@v4
       with:
         name: daily-report-${{ github.run_id }}
         path: src/report_*.md
         retention-days: 30
+
+    - name: Commit pushed history
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add src/.pushed_history.json
+        git diff --staged --quiet || (git commit -m "chore: update pushed history [skip ci]" && git push)
