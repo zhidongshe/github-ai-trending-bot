@@ -18,5 +18,10 @@
   "maderix/ANE": "2026-04-21",
   "langflow-ai/langflow": "2026-04-21",
   "langgenius/dify": "2026-04-21",
-  "AUTOMATIC1111/stable-diffusion-webui": "2026-04-21"
+  "AUTOMATIC1111/stable-diffusion-webui": "2026-04-21",
+  "NousResearch/hermes-agent": "2026-04-22",
+  "microsoft/generative-ai-for-beginners": "2026-04-22",
+  "langchain-ai/langchain": "2026-04-22",
+  "OpenHands/OpenHands": "2026-04-22",
+  "p-e-w/heretic": "2026-04-22"
 }
