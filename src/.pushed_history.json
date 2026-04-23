@@ -23,5 +23,10 @@
   "microsoft/generative-ai-for-beginners": "2026-04-22",
   "langchain-ai/langchain": "2026-04-22",
   "OpenHands/OpenHands": "2026-04-22",
-  "p-e-w/heretic": "2026-04-22"
+  "p-e-w/heretic": "2026-04-22",
+  "infiniflow/ragflow": "2026-04-23",
+  "rasbt/LLMs-from-scratch": "2026-04-23",
+  "n8n-io/n8n": "2026-04-23",
+  "lobehub/lobehub": "2026-04-23",
+  "vllm-project/vllm": "2026-04-23"
 }
