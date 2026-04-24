@@ -28,5 +28,10 @@
   "rasbt/LLMs-from-scratch": "2026-04-23",
   "n8n-io/n8n": "2026-04-23",
   "lobehub/lobehub": "2026-04-23",
-  "vllm-project/vllm": "2026-04-23"
+  "vllm-project/vllm": "2026-04-23",
+  "hiyouga/LlamaFactory": "2026-04-24",
+  "dair-ai/Prompt-Engineering-Guide": "2026-04-24",
+  "huggingface/transformers": "2026-04-24",
+  "Mintplex-Labs/anything-llm": "2026-04-24",
+  "Snailclimb/JavaGuide": "2026-04-24"
 }
