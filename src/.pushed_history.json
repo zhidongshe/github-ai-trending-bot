@@ -33,5 +33,10 @@
   "dair-ai/Prompt-Engineering-Guide": "2026-04-24",
   "huggingface/transformers": "2026-04-24",
   "Mintplex-Labs/anything-llm": "2026-04-24",
-  "Snailclimb/JavaGuide": "2026-04-24"
+  "Snailclimb/JavaGuide": "2026-04-24",
+  "tensorflow/tensorflow": "2026-04-25",
+  "pathwaycom/pathway": "2026-04-25",
+  "microsoft/ML-For-Beginners": "2026-04-25",
+  "ggml-org/whisper.cpp": "2026-04-25",
+  "PaddlePaddle/PaddleOCR": "2026-04-25"
 }
