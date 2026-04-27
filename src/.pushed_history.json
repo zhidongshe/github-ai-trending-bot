@@ -43,5 +43,10 @@
   "fishaudio/fish-speech": "2026-04-26",
   "sgl-project/sglang": "2026-04-26",
   "pytorch/pytorch": "2026-04-26",
-  "harvard-edge/cs249r_book": "2026-04-26"
+  "harvard-edge/cs249r_book": "2026-04-26",
+  "facebookresearch/audiocraft": "2026-04-27",
+  "deepspeedai/DeepSpeed": "2026-04-27",
+  "josephmisiti/awesome-machine-learning": "2026-04-27",
+  "netdata/netdata": "2026-04-27",
+  "keras-team/keras": "2026-04-27"
 }
