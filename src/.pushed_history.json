@@ -48,5 +48,10 @@
   "deepspeedai/DeepSpeed": "2026-04-27",
   "josephmisiti/awesome-machine-learning": "2026-04-27",
   "netdata/netdata": "2026-04-27",
-  "keras-team/keras": "2026-04-27"
+  "keras-team/keras": "2026-04-27",
+  "gradio-app/gradio": "2026-04-28",
+  "huggingface/pytorch-image-models": "2026-04-28",
+  "lucidrains/vit-pytorch": "2026-04-28",
+  "lukasmasuch/best-of-ml-python": "2026-04-28",
+  "Ebazhanov/linkedin-skill-assessments-quizzes": "2026-04-28"
 }
