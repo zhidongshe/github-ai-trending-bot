@@ -53,5 +53,10 @@
   "huggingface/pytorch-image-models": "2026-04-28",
   "lucidrains/vit-pytorch": "2026-04-28",
   "lukasmasuch/best-of-ml-python": "2026-04-28",
-  "Ebazhanov/linkedin-skill-assessments-quizzes": "2026-04-28"
+  "Ebazhanov/linkedin-skill-assessments-quizzes": "2026-04-28",
+  "scikit-learn/scikit-learn": "2026-04-29",
+  "mrdbourke/pytorch-deep-learning": "2026-04-29",
+  "amusi/CVPR2026-Papers-with-Code": "2026-04-29",
+  "fastai/fastai": "2026-04-29",
+  "pyg-team/pytorch_geometric": "2026-04-29"
 }
