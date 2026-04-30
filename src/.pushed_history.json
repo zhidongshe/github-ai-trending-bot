@@ -58,5 +58,10 @@
   "mrdbourke/pytorch-deep-learning": "2026-04-29",
   "amusi/CVPR2026-Papers-with-Code": "2026-04-29",
   "fastai/fastai": "2026-04-29",
-  "pyg-team/pytorch_geometric": "2026-04-29"
+  "pyg-team/pytorch_geometric": "2026-04-29",
+  "shap/shap": "2026-04-30",
+  "Tencent/ncnn": "2026-04-30",
+  "PaddlePaddle/Paddle": "2026-04-30",
+  "Unity-Technologies/ml-agents": "2026-04-30",
+  "lutzroeder/netron": "2026-04-30"
 }
