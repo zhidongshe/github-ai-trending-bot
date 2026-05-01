@@ -63,5 +63,10 @@
   "Tencent/ncnn": "2026-04-30",
   "PaddlePaddle/Paddle": "2026-04-30",
   "Unity-Technologies/ml-agents": "2026-04-30",
-  "lutzroeder/netron": "2026-04-30"
+  "lutzroeder/netron": "2026-04-30",
+  "nndl/nndl.github.io": "2026-05-01",
+  "ludwig-ai/ludwig": "2026-05-01",
+  "google/sentencepiece": "2026-05-01",
+  "tensorflow/playground": "2026-05-01",
+  "google/flax": "2026-05-01"
 }
