@@ -8,5 +8,10 @@
   "x1xhlol/system-prompts-and-models-of-ai-tools": "2026-05-03",
   "thedotmack/claude-mem": "2026-05-03",
   "farion1231/cc-switch": "2026-05-03",
-  "HKUDS/DeepTutor": "2026-05-03"
+  "HKUDS/DeepTutor": "2026-05-03",
+  "punkpeye/awesome-mcp-servers": "2026-05-04",
+  "ollama/ollama": "2026-05-04",
+  "Significant-Gravitas/AutoGPT": "2026-05-04",
+  "firecrawl/firecrawl": "2026-05-04",
+  "Shubhamsaboo/awesome-llm-apps": "2026-05-04"
 }
