@@ -18,5 +18,10 @@
   "f/prompts.chat": "2026-05-05",
   "langgenius/dify": "2026-05-05",
   "langflow-ai/langflow": "2026-05-05",
-  "AUTOMATIC1111/stable-diffusion-webui": "2026-05-05"
+  "AUTOMATIC1111/stable-diffusion-webui": "2026-05-05",
+  "microsoft/generative-ai-for-beginners": "2026-05-06",
+  "langchain-ai/langchain": "2026-05-06",
+  "OpenHands/OpenHands": "2026-05-06",
+  "infiniflow/ragflow": "2026-05-06",
+  "p-e-w/heretic": "2026-05-06"
 }
