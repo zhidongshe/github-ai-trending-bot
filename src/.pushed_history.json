@@ -38,5 +38,10 @@
   "pathwaycom/pathway": "2026-05-09",
   "microsoft/ML-For-Beginners": "2026-05-09",
   "ggml-org/whisper.cpp": "2026-05-09",
-  "PaddlePaddle/PaddleOCR": "2026-05-09"
+  "PaddlePaddle/PaddleOCR": "2026-05-09",
+  "sgl-project/sglang": "2026-05-10",
+  "fishaudio/fish-speech": "2026-05-10",
+  "pytorch/pytorch": "2026-05-10",
+  "harvard-edge/cs249r_book": "2026-05-10",
+  "facebookresearch/audiocraft": "2026-05-10"
 }
