@@ -48,5 +48,10 @@
   "josephmisiti/awesome-machine-learning": "2026-05-11",
   "netdata/netdata": "2026-05-11",
   "keras-team/keras": "2026-05-11",
-  "gradio-app/gradio": "2026-05-11"
+  "gradio-app/gradio": "2026-05-11",
+  "huggingface/pytorch-image-models": "2026-05-12",
+  "lucidrains/vit-pytorch": "2026-05-12",
+  "lukasmasuch/best-of-ml-python": "2026-05-12",
+  "Ebazhanov/linkedin-skill-assessments-quizzes": "2026-05-12",
+  "scikit-learn/scikit-learn": "2026-05-12"
 }
