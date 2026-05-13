@@ -53,5 +53,10 @@
   "lucidrains/vit-pytorch": "2026-05-12",
   "lukasmasuch/best-of-ml-python": "2026-05-12",
   "Ebazhanov/linkedin-skill-assessments-quizzes": "2026-05-12",
-  "scikit-learn/scikit-learn": "2026-05-12"
+  "scikit-learn/scikit-learn": "2026-05-12",
+  "amusi/CVPR2026-Papers-with-Code": "2026-05-13",
+  "fastai/fastai": "2026-05-13",
+  "pyg-team/pytorch_geometric": "2026-05-13",
+  "shap/shap": "2026-05-13",
+  "Tencent/ncnn": "2026-05-13"
 }
